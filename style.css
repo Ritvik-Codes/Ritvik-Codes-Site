@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Space+Mono&family=Special+Elite&display=swap');
+h1,h2,h3,h4,h5,h6,p,i,s,a{
+    color: #58FCB5 !important;
+}
+a:hover{
+    color: #18ff9b !important;
+}
+a:active{
+    color: #00b868 !important;
+}
+.navbar-brand{
+    font-weight: 300 !important;
+    font-family: 'Space Mono', monospace !important;
+}
+
+main h1,main h2,main h3,main h4,main h5,main h6,main p,main i,main s,main a{
+    color: Black !important;
+}
